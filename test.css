@@ -6,3 +6,21 @@
   color: blue;
   cursor: pointer;
 }
+.box{
+  padding: 20px;
+  background-color: red;
+  width: 120px;
+}
+.container{
+  display: flex;
+  height: 500px;
+  border: 1px solid gray;
+  justify-content: space-around;
+  align-items: center;
+}
+.box2{
+  background-color: green;
+}
+.box3{
+  background-color: blue;
+}
